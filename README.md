@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aadya242005
-- 👀 I’m interested in coding,chess
+- 👀 I’m interested in coding,chess,debates
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on microsoft projects
 - 📫 How to reach me ...
