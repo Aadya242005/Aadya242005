@@ -11,13 +11,13 @@
 - 🎓 **B.Tech | AI & ML**
 - ⚡ Building AI-powered web platforms & innovative applications
 - 🏆 Hackathon Enthusiast
-- 📧 Reach me at: **your_email@example.com**
+- 📧 Reach me at: aadya03dps@gmail.com
 
 ---
 
 ### 🌐 Connect with me
 <p align="center">
-  <a href="https://linkedin.com/in/your-link" target="_blank" rel="noopener">
+  <a href="https://leetcode.com/u/Aadya24/" target="_blank" rel="noopener">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Aadya242005" target="_blank" rel="noopener">
