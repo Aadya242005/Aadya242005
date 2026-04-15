@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aadya Sharma</h1>
-<h3 align="center">🚀 AI + Full Stack Developer | Flipkart Grid 7.0 Semifinalist</h3>
+<h3 align="center">🚀 AI + Full Stack Developer | Flipkart Runway 5.0 Semifinalist</h3>
 
 <p align="center">
 💡 Building intelligent systems using ML, LLMs & scalable web apps  
