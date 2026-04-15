@@ -39,7 +39,7 @@
 ---
 
 ### 🏆 Achievements
-- 🏁 Flipkart Grid 7.0 — Semifinalist  
+- 🏁 Flipkart Runway 5.0 — Semifinalist  
 - 🥇 First Runner-Up — ML Manthan Hackathon 2025  
 - 💻 Solved 700+ DSA problems  
 - 🏆 Participated in Adobe, Google, Bajaj, IIT Delhi Hackathons  
