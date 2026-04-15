@@ -1,62 +1,75 @@
-<h1 align="center">Hi there 👋, I'm Aadya Sharma</h1>
-<h3 align="center">🚀 Passionate about building intelligent systems, ML models, embedded systems & full stack development</h3>
+<h1 align="center">Hi, I'm Aadya Sharma</h1>
+<h3 align="center">AI + Full Stack Developer</h3>
 
-<p align="center" style="font-size: 1.2rem; font-style: italic; margin-top: -10px; margin-bottom: 25px;">
-  <b>Eat 🍴, Code 💻, Repeat 🔄 — Innovate, Create, Peace ✌️</b>
+<p align="center">
+Building intelligent systems using Machine Learning, LLMs and scalable web applications
 </p>
 
 ---
 
-### 💫 About Me
-- 🎓 **B.Tech | AI & ML**
-- ⚡ Building AI-powered web platforms & innovative applications
-- 🏆 Hackathon Enthusiast
-- 📧 Reach me at: **your_email@example.com**
+### About Me
+- B.Tech | AI & ML  
+- Solved 700+ DSA problems (LeetCode, Codeforces)  
+- Flipkart Runway Season 5 — Participant  
+- First Runner-Up — ML Manthan Hackathon 2025  
+- Reach me at: aadya03dps@gmail.com  
 
 ---
 
-### 🌐 Connect with me
+### Connect
 <p align="center">
-  <a href="https://linkedin.com/in/your-link" target="_blank" rel="noopener">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/aadya-sharma-99333a286/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Aadya242005" target="_blank" rel="noopener">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Aadya242005">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/Aadya24/" target="_blank" rel="noopener">
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="https://leetcode.com/u/Aadya24/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### Projects
 
-| Project | Description |
-|---------|-------------|
-| 🔹 **[Gen-AI LinkedIn Post Generator](#)** | AI-powered LinkedIn post generator with dynamic text copying and stylish UI. |
-| 🔹 **[Project 2 Name](#)** | Brief description of what it does. |
-| 🔹 **[Project 3 Name](#)** | Brief description of what it does. |
+- **ARS – Autonomous Research Scientist** *(In Progress)*  
+  Multi-agent AI system for automated research and insight generation  
 
----
+- **RePlanAI – Return Risk Prediction Engine**  
+  AI system to predict product returns and automate supply chain actions  
 
-### 📊 GitHub Stats
+- **CampusSkillX**  
+  Full-stack MERN platform with authentication and dashboard  
+  https://campusx-new-frontend.onrender.com/  
 
-<p align="center">
-  <img alt="Aadya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aadya242005&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img alt="Aadya's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aadya242005&theme=tokyonight" />
-</p>
+- **Fluenz AI**  
+  AI conversational assistant  
+  https://www.fluenzyai.app/  
 
----
-
-### 💡 LeetCode Stats
-
-<p align="center">
-  <img alt="LeetCode Stats" src="https://leetcode.card.workers.dev/?username=Aadya24&theme=dark" />
-</p>
+- **Face Emotion Recognition**  
+  CNN-based real-time emotion detection system  
 
 ---
 
-⭐️ From [Aadya242005](https://github.com/Aadya242005)
+### Skills
+
+- **Languages:** Java, Python, JavaScript, SQL  
+- **Full Stack:** React.js, Node.js, Express.js  
+- **Machine Learning:** NLP, Scikit-learn, Pandas, NumPy  
+- **Tools:** Git, Docker, Postman, OpenAI API  
+
+---
+
+### Leadership & Activities
+- Debate Competition Winner  
+- Co-hosted technical and college events  
+- Strong communication and public speaking  
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aadya242005&show_icons=true"/>
+</p>
