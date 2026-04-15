@@ -1,72 +1,96 @@
-<h1 align="center">Hi 👋, I'm Aadya Sharma</h1>
-<h3 align="center">🚀 AI + Full Stack Developer | Flipkart Runway 5.0 Semifinalist</h3>
+<h1 align="center">Hi, I'm Aadya Sharma</h1>
+<h3 align="center">AI + Full Stack Developer | Flipkart Grid 7.0 & Runway 5.0</h3>
 
 <p align="center">
-💡 Building intelligent systems using ML, LLMs & scalable web apps  
+Building intelligent systems using ML, LLMs and scalable web applications
 </p>
 
 ---
 
-### 💫 About Me
-- 🎓 B.Tech | AI & ML  
-- 🧠 Solved **700+ DSA problems** (LeetCode + Codeforces)  
-- 🏆 **1st Runner-Up — ML Manthan Hackathon 2025**  
-- 🚀 Built multiple AI & full-stack production-level projects  
-- 📧 Reach me at: aadya03dps@gmail.com  
+### About Me
+- B.Tech | AI & ML  
+- Solved 700+ DSA problems (LeetCode, Codeforces)  
+- First Runner-Up — ML Manthan Hackathon 2025  
+- Flipkart Grid 7.0 — Semifinalist  
+- Flipkart Runway 5.0 Participant  
+- Interested in AI systems, backend engineering and scalable applications  
+- Contact: aadya03dps@gmail.com  
 
 ---
 
-### 🛠️ Tech Stack
-- 💻 Languages: Java, Python, JavaScript, SQL  
-- 🌐 Full Stack: React.js, Node.js, Express.js  
-- 🧠 AI/ML: NLP, Scikit-learn, Pandas, NumPy  
-- 🗄️ Databases: MongoDB, PostgreSQL  
-- ⚙️ Tools: Docker, Git, CI/CD, Postman, OpenAI API  
+### Tech Stack
+- Languages: Java, Python, JavaScript, SQL  
+- Full Stack: React.js, Node.js, Express.js  
+- AI/ML: NLP, Scikit-learn, Pandas, NumPy  
+- Databases: MongoDB, PostgreSQL  
+- Tools: Docker, Git, CI/CD, Postman, OpenAI API  
 
 ---
 
-### 🚀 Featured Projects
+### Projects
 
-| Project | Description |
-|--------|------------|
-| 🧠 **ARS – Autonomous Research Scientist** | Multi-agent AI system for automated research & insights |
-| 🤖 **Fluenz AI** | LLM-based conversational assistant with context awareness |
-| 👁️ **Glaucoma Prediction** | ML model for early disease detection |
-| 😊 **Emotion & Gesture Recognition** | Real-time CNN-based emotion detection |
-| ❤️ **Heartio** | AI-powered health monitoring & prediction system |
-| 🌐 **CampusSkillX / WebX** | MERN stack full-stack platform |
+- **ARS – Autonomous Research Scientist**  
+  Multi-agent AI system for automated research and insights  
+
+- **CampusSkillX / WebX**  
+  Frontend: https://campusx-new-frontend.onrender.com/  
+  Backend: https://campusx-new-backend.onrender.com/  
+  MERN-based full-stack platform with authentication and dashboard  
+
+- **Glaucoma Prediction**  
+  Live: https://galucoma-prediction.vercel.app/  
+  ML-based system for early disease detection  
+
+- **Fluenz AI**  
+  Live: https://www.fluenzyai.app/  
+  AI conversational assistant with real-time responses  
+
+- **Face Emotion Recognition**  
+  CNN-based real-time emotion detection system  
+  Run locally: npm install
+  npm run dev
+  Open http://localhost:3000  
+
+- **Heartio**  
+AI-based health monitoring and prediction system  
 
 ---
 
-### 🏆 Achievements
-- 🏁 Flipkart Runway 5.0 — Semifinalist  
-- 🥇 First Runner-Up — ML Manthan Hackathon 2025  
-- 💻 Solved 700+ DSA problems  
-- 🏆 Participated in Adobe, Google, Bajaj, IIT Delhi Hackathons  
+### Achievements
+- First Runner-Up — ML Manthan Hackathon 2025  
+- Flipkart Grid 7.0 — Semifinalist  
+- Solved 700+ DSA problems  
+- Participated in Adobe, Google, Bajaj, IIT Delhi Hackathons  
 
 ---
 
-### 💼 Experience
-**ML Micro-Internship — GLA University (2025)**  
-- Data preprocessing & feature engineering  
-- Model training & evaluation  
+### Experience
+ML Micro-Internship — GLA University (2025)  
+- Data preprocessing and feature engineering  
+- Model training and evaluation  
 
 ---
 
-### 🌐 Connect with Me
+### Leadership & Activities
+- Debate Competition Winner  
+- Co-hosted technical and college events  
+- Strong communication and public speaking skills  
+- Active in hackathons and collaborative projects  
+
+---
+
+### Links
+- GitHub: https://github.com/Aadya242005  
+- LeetCode: https://leetcode.com/u/Aadya24/  
+- LinkedIn: https://www.linkedin.com/in/aadya-sharma-99333a286/  
+
+---
+
+### GitHub Stats
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://github.com/Aadya242005"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
-  <a href="https://leetcode.com/u/Aadya24/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=Aadya242005&show_icons=true"/>
 </p>
 
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aadya242005&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadya242005&theme=tokyonight"/>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadya242005"/>
+</p> 
