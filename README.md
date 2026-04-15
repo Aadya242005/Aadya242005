@@ -1,72 +1,62 @@
-<h1 align="center">Aadya Sharma</h1>
-<p align="center">AI + Full Stack Developer</p>
+<h1 align="center">Hi there 👋, I'm Aadya Sharma</h1>
+<h3 align="center">🚀 Passionate about building intelligent systems, ML models, embedded systems & full stack development</h3>
 
-<p align="center">
-Building intelligent systems using Machine Learning, LLMs and scalable web applications
+<p align="center" style="font-size: 1.2rem; font-style: italic; margin-top: -10px; margin-bottom: 25px;">
+  <b>Eat 🍴, Code 💻, Repeat 🔄 — Innovate, Create, Peace ✌️</b>
 </p>
 
 ---
 
-### About
-- B.Tech (AI & ML)  
-- Solved 700+ DSA problems (LeetCode, Codeforces)  
-- Flipkart Grid 7.0 — Semifinalist  
-- Flipkart Runway 5.0 Participant  
-- First Runner-Up — ML Manthan Hackathon 2025  
+### 💫 About Me
+- 🎓 **B.Tech | AI & ML**
+- ⚡ Building AI-powered web platforms & innovative applications
+- 🏆 Hackathon Enthusiast
+- 📧 Reach me at: **your_email@example.com**
 
 ---
 
-### Projects
-
-**ARS – Autonomous Research Scientist** *(In Progress)*  
-Multi-agent AI system for automated research and insight generation  
-
-**RePlanAI – Return Risk Prediction Engine**  
-AI system to predict product returns and trigger supply chain actions  
-
-**CampusSkillX**  
-Full-stack MERN platform with authentication and dashboard  
-Frontend: https://campusx-new-frontend.onrender.com/  
-Backend: https://campusx-new-backend.onrender.com/  
-
-**Fluenz AI**  
-AI conversational assistant  
-https://www.fluenzyai.app/  
-
-**Face Emotion Recognition**  
-CNN-based real-time emotion detection system  
+### 🌐 Connect with me
+<p align="center">
+  <a href="https://linkedin.com/in/your-link" target="_blank" rel="noopener">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Aadya242005" target="_blank" rel="noopener">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Aadya24/" target="_blank" rel="noopener">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
 ---
 
-### Skills
+### 🚀 Featured Projects
 
-**Languages:** Java, Python, JavaScript, SQL  
-**Full Stack:** React.js, Node.js, Express.js  
-**ML:** NLP, Scikit-learn, Pandas, NumPy  
-**Tools:** Git, Docker, Postman, OpenAI API  
-
----
-
-### Experience
-ML Micro-Internship — GLA University (2025)  
-Worked on data preprocessing, feature engineering and model evaluation  
+| Project | Description |
+|---------|-------------|
+| 🔹 **[Gen-AI LinkedIn Post Generator](#)** | AI-powered LinkedIn post generator with dynamic text copying and stylish UI. |
+| 🔹 **[Project 2 Name](#)** | Brief description of what it does. |
+| 🔹 **[Project 3 Name](#)** | Brief description of what it does. |
 
 ---
 
-### Leadership
-- Debate Competition Winner  
-- Co-hosted technical and college events  
-- Strong communication and public speaking  
-
----
-
-### Links
-GitHub: https://github.com/Aadya242005  
-LeetCode: https://leetcode.com/u/Aadya24/  
-LinkedIn: https://www.linkedin.com/in/aadya-sharma-99333a286/  
-
----
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aadya242005&show_icons=true" />
+  <img alt="Aadya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aadya242005&show_icons=true&theme=tokyonight" />
 </p>
+<p align="center">
+  <img alt="Aadya's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aadya242005&theme=tokyonight" />
+</p>
+
+---
+
+### 💡 LeetCode Stats
+
+<p align="center">
+  <img alt="LeetCode Stats" src="https://leetcode.card.workers.dev/?username=Aadya24&theme=dark" />
+</p>
+
+---
+
+⭐️ From [Aadya242005](https://github.com/Aadya242005)
