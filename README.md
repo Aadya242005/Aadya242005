@@ -1,7 +1,7 @@
 # Aadya Sharma  
 ### AI Engineer | Building LLM-powered products & agentic systems  
 
-🌐 **Portfolio:** https://aadya242005.github.io/Portfolio/  
+🌐 **Portfolio:** https://portfolio-flax-zeta-23.vercel.app/  
 
 ---
 
