@@ -1,89 +1,61 @@
-<h1 align="center">Aadya Sharma</h1>
+# Aadya Sharma  
+### AI Engineer | Building LLM-powered products & agentic systems  
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=6C63FF&center=true&vCenter=true&width=500&lines=AI+%2B+ML+Engineer;Full+Stack+Developer;Building+Real+World+AI+Systems" />
-</p>
-
-<p align="center">
-AI + ML | Full Stack Development | Production-Ready Systems
-</p>
+🌐 **Portfolio:** https://aadya242005.github.io/Portfolio/  
 
 ---
 
-## Profile
+## 🚀 About Me
+I build **AI-powered applications** using LLMs, agents, and full-stack systems.  
+Focused on solving real-world problems with scalable and deployable solutions.
 
-
-B.Tech (AI & ML)
-700+ DSA Problems Solved (LeetCode, Codeforces)
-Flipkart Runway Season 5 — Participant
-First Runner-Up — ML Manthan Hackathon 2025
-ML Micro-Internship — GLA University (2025)
-
+- 🏆 First Runner-Up – ML Manthan Hackathon (FluenzAI)  
+- 💻 Solved 700+ DSA problems  
+- ⚡ Strong in React, FastAPI, and AI system design  
 
 ---
 
-## Current Focus
-
-
-Building AI-driven systems and LLM-based applications
-Developing scalable full-stack platforms
-Exploring system design and real-world problem solving
-
+## 🛠️ Tech Stack
+**Languages:** Java, Python, JavaScript, SQL  
+**AI/ML:** NLP, LLMs, Scikit-learn  
+**Frameworks:** React, Node.js, FastAPI  
+**Tools:** Git, Docker, Postman  
 
 ---
 
-## Projects
+## 🔥 Featured Projects
 
-**ARS – Autonomous Research Scientist (In Progress)**  
-Multi-agent AI system for automated research and insight generation  
-
-**RePlanAI – Return Risk Prediction Engine**  
-AI system for predicting product returns and automating supply chain actions  
-
-**CampusSkillX**  
-Full-stack MERN platform with authentication and dashboard  
-https://campusx-new-frontend.onrender.com/  
-
-**Fluenz AI**  
-AI conversational assistant  
-https://www.fluenzyai.app/  
-
-**Face Emotion Recognition**  
-CNN-based real-time emotion detection system  
+### 🚀 FluenzAI – AI Language Learning Platform *(Startup Project)*
+- LLM-powered personalized learning with real-time feedback  
+- 🏆 Hackathon-winning product with live deployment  
+- 🌐 https://www.fluenzyai.app/  
+- 💻 https://github.com/Aadya242005/Fluenz-ai  
 
 ---
 
-## Tech Stack
-
-
-Languages: Java, Python, JavaScript, SQL
-Full Stack: React.js, Node.js, Express.js
-Machine Learning: NLP, Scikit-learn, Pandas, NumPy
-Tools: Git, Docker, Postman, OpenAI API
-
+### 🤖 ARS – Autonomous Research Scientist
+- Multi-agent AI system for automated research & insights  
+- Built with FastAPI, React, and local LLMs  
 
 ---
 
-## Leadership & Activities
-
-
-Debate Competition Winner
-Co-hosted technical and college events
-Strong communication and public speaking
-
+### 🎓 CampusSkillX
+- Skill development platform with quizzes, tracking & leaderboard  
 
 ---
 
-## Links
-
-LinkedIn: https://www.linkedin.com/in/aadya-sharma-99333a286/  
-GitHub: https://github.com/Aadya242005  
-LeetCode: https://leetcode.com/u/Aadya24/  
+## 📌 What I'm Working On
+- Multi-agent AI systems  
+- LLM orchestration & automation  
+- Building scalable AI products  
 
 ---
 
-## GitHub Stats
+## 📫 Contact
+- 📧 aadya02dps@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/aadya-sharma-99333a286/  
+- 💻 GitHub: https://github.com/Aadya242005  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aadya242005&show_icons=true" />
-</p>
+---
+
+⭐ *Open to opportunities in AI/ML and Software Development*
